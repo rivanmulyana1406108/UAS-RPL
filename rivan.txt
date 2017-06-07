@@ -2,3 +2,5 @@ Nama	:Rivan Mulyana
 NPM	:1406108
 Jurusan	:T.Informatika "C"
 STT Garut
+
+UAS RPL mempelajari Git dan GitHub
